@@ -8,8 +8,10 @@ from aiogram.types import FSInputFile
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 # === CONFIGURATION ===
-BOT_TOKEN = "8422094251:AAGLAOljbRo_2XosYBLuE7zb10zmUH47SWE"
-AUTHORIZED_USER_ID = 825505825 # Replace with your Telegram user_id
+import os
+
+BOT_TOKEN = os.getenv("8422094251:AAGLAOljbRo_2XosYBLuE7zb10zmUH47SWE")
+AUTHORIZED_USER_ID = int(os.getenv("825505825"))
 STORAGE_DIR = "local_storage"
 
 # === LOGGING ===
